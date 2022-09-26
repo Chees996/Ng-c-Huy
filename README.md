@@ -35,11 +35,7 @@
 
 
 
-# Contact dev
-* Telegram: ```@ngdangtr```
 
-# Donation
-* Momo: ```0965849504```
 
 
 
