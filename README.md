@@ -1,1 +1,0 @@
-Lv tầm vũi trụ
